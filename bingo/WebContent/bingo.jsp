@@ -732,7 +732,7 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="news/html/1500.jsp"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
