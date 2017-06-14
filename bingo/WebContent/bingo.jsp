@@ -732,37 +732,37 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="热烈祝贺江苏比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议">${sessionScope.sessionNews[2].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[2].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1691.html"   target="_blank"    title="宁波比高新能源有限公司与宁波邮政储蓄银行成功签约达成战略合作">宁波比高新能源有限公司与宁波邮政储蓄银行成功签约达成战略合作</a></div>
+<div class="newstitle" ><a href="news/html/?1691.html"   target="_blank"    title="${sessionScope.sessionNews[3].getNewsTitle()}">${sessionScope.sessionNews[3].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-26]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1685.html"   target="_blank"    title="商丘比高新能源与民权德商村镇银行共同签署了“德源贷”战略合作协议书。">商丘比高新能源与民权德商村镇银行共同签署了“德源贷”战略合作协议书。</a></div>
+<div class="newstitle" ><a href="news/html/?1685.html"   target="_blank"    title="${sessionScope.sessionNews[4].getNewsTitle()}">${sessionScope.sessionNews[4].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-24]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1676.html"   target="_blank"    title="江苏比高集团董事长黄亚强一行人莅临涟水比高新能源有限公司进行视察">江苏比高集团董事长黄亚强一行人莅临涟水比高新能源有限公司进行视察</a></div>
+<div class="newstitle" ><a href="news/html/?1676.html"   target="_blank"    title="${sessionScope.sessionNews[5].getNewsTitle()}">${sessionScope.sessionNews[5].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-14]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1686.html"   target="_blank"    title="江苏比高新能源赞助《中国梦·我的梦 同沐阳光 ·共享芬芳》文艺演出">江苏比高新能源赞助《中国梦·我的梦 同沐阳光 ·共享芬芳》文艺演出</a></div>
+<div class="newstitle" ><a href="news/html/?1686.html"   target="_blank"    title="${sessionScope.sessionNews[6].getNewsTitle()}">${sessionScope.sessionNews[6].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-24]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1673.html"   target="_blank"    title="印尼工商会馆中国委员会许再山秘书长莅临指导">印尼工商会馆中国委员会许再山秘书长莅临指导</a></div>
+<div class="newstitle" ><a href="news/html/?1673.html"   target="_blank"    title="${sessionScope.sessionNews[7].getNewsTitle()}">${sessionScope.sessionNews[7].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-11]</div>
 </li>
 
@@ -1243,7 +1243,7 @@ function selectTag(showContent,selfObj){
 
 <a href="swxx/class/"    title="商务信息">
 
-<div class="zxju_img"><img src="templates/default/images/index_01.jpg"/></div>
+<div class="zxju_img"><img src="templates/default/images/555.jpg"/></div>
 
 <div class="zxju_text" >
 
@@ -1267,7 +1267,7 @@ function selectTag(showContent,selfObj){
 
 <a href="page/dwjs/"   title="党的建设">
 
-<div class="zxju_img"><img src="templates/default/images/index_02.jpg"/></div>
+<div class="zxju_img"><img src="templates/default/images/6666.jpg"/></div>
 
 <div class="zxju_text" >
 
@@ -1303,7 +1303,7 @@ function selectTag(showContent,selfObj){
 
 </div>
 
-<div class="zxju_img"><img src="templates/default/images/index_03.jpg"/></div>
+<div class="zxju_img"><img src="templates/default/images/777.jpg"/></div>
 
 <div class="clearfix"> </div>
 
