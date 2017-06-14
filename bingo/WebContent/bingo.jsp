@@ -732,12 +732,12 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。">${sessionScope.sessionNews[0].getNewsContent()}</a></div>
+<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="热烈祝贺江苏比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议">${sessionScope.sessionNews[0].getNewsContent()}</a></div>
+<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="热烈祝贺江苏比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议">${sessionScope.sessionNews[2].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
