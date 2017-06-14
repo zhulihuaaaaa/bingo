@@ -722,8 +722,8 @@ $(".lang").hover(function(){
 <div  class="NewsPicRec">
  
 
-<h4><a href="news/html/?1691.html"   target="_blank">第一次总经理培训在南通成功举行</a></h4>
-<p>比高新能源第一期总经理培训在江苏南通顺利展开，培训班的胜利举办得到了比高集团董事长黄亚强先生、总裁黄亚福先生、副总裁黄小华女士高度关注和衷心的祝贺！</p>
+<h4><a href="news/html/?1691.html"   target="_blank">${sessionScope.sessionNews[0].getNewsTitle()}</a></h4>
+<p>${sessionScope.sessionNews[0].getNewsContent()}</p>
 
 
 
@@ -732,12 +732,12 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。">比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。</a></div>
+<div class="newstitle" ><a href="news/html/?1694.html"   target="_blank"    title="比高新能源与江苏涟水经济开发区管理委员会合作协议正式签约。">${sessionScope.sessionNews[0].getNewsContent()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="热烈祝贺江苏比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议">热烈祝贺比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议</a></div>
+<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="热烈祝贺江苏比高新能源集团与泉州农村商业银行签订“光伏贷”合作协议">${sessionScope.sessionNews[0].getNewsContent()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 

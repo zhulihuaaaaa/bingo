@@ -3,6 +3,7 @@ package bingo.news.servlet;
 import java.io.IOException;
 import java.net.URLEncoder;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.ServletException;
@@ -30,12 +31,13 @@ public class UserServlet extends BaseServlet {
 	public String login(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
 		/*static_user formUser = CommonUtils.toBean(req.getParameterMap(), static_user.class);*/
-		static_user user = userService.login();
+		List<static_user> userlist = userService.login();
 		//System.out.println(user);
-		if(user == null) {
+		if(userlist == null) {
 			return "r:/bingo.jsp";
 		} else {
-			req.getSession().setAttribute("sessionNews", user);
+			req.getSession().setAttribute("sessionNews", userlist);
+			/*System.out.println(userlist);*/
 		return "r:/bingo.jsp";
 	}
 	

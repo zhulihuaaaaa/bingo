@@ -3,6 +3,7 @@ package bingo.news.service;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.text.MessageFormat;
+import java.util.List;
 import java.util.Properties;
 
 import javax.mail.MessagingException;
@@ -27,7 +28,7 @@ public class UserService {
 	 * @param user
 	 * @return
 	 */
-	public static_user login() {
+	public List<static_user> login() {
 		try {
 			return userDao.findByLoginnameAndLoginpass();
 		} catch (SQLException e) {
