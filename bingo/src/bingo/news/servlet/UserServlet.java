@@ -40,7 +40,23 @@ public class UserServlet extends BaseServlet {
 			/*System.out.println(userlist);*/
 		return "r:/bingo.jsp";
 	}
-	
-
 	}
+	
+	/**
+	 * 登录功能
+	 */
+	public String findSingleNews(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		String SingleNews_id = req.getParameter("id");
+		int id = Integer.parseInt(SingleNews_id);
+		static_user SingleNews = userService.findSingleNews(id);
+		if(SingleNews == null) {
+			return "r:/news/html/1500.jsp";
+		} else {
+			req.getSession().setAttribute("SingleNews", SingleNews);
+			/*System.out.println(userlist);*/
+			return "r:/news/html/1500.jsp";
+	}
+	}
+	
 }

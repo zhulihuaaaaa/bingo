@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8" isELIgnored="false"%>
 <!DOCTYPE html>
 
 <head>
@@ -732,37 +732,37 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/1500.jsp"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[1].getNewsId()}"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1695.html"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[2].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[2].getNewsId()}"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[2].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1691.html"   target="_blank"    title="${sessionScope.sessionNews[3].getNewsTitle()}">${sessionScope.sessionNews[3].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[3].getNewsId()}"   target="_blank"    title="${sessionScope.sessionNews[3].getNewsTitle()}">${sessionScope.sessionNews[3].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-26]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1685.html"   target="_blank"    title="${sessionScope.sessionNews[4].getNewsTitle()}">${sessionScope.sessionNews[4].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[4].getNewsId()}"    title="${sessionScope.sessionNews[4].getNewsTitle()}">${sessionScope.sessionNews[4].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-24]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1676.html"   target="_blank"    title="${sessionScope.sessionNews[5].getNewsTitle()}">${sessionScope.sessionNews[5].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[5].getNewsId()}"    title="${sessionScope.sessionNews[5].getNewsTitle()}">${sessionScope.sessionNews[5].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-14]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1686.html"   target="_blank"    title="${sessionScope.sessionNews[6].getNewsTitle()}">${sessionScope.sessionNews[6].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[6].getNewsId()}"    title="${sessionScope.sessionNews[6].getNewsTitle()}">${sessionScope.sessionNews[6].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-24]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1673.html"   target="_blank"    title="${sessionScope.sessionNews[7].getNewsTitle()}">${sessionScope.sessionNews[7].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[7].getNewsId()}"    title="${sessionScope.sessionNews[7].getNewsTitle()}">${sessionScope.sessionNews[7].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-11]</div>
 </li>
 

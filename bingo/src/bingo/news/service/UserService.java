@@ -36,6 +36,18 @@ public class UserService {
 		}
 	}
 	
+	/**
+	 * 登录功能
+	 * @param user
+	 * @return
+	 */
+	public static_user findSingleNews(int id) {
+		try {
+			return userDao.findSingleNews(id);
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		}
+	}
 
-
+	
 }

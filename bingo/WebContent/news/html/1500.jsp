@@ -71,11 +71,11 @@ function fontZoom(size)
 
 <div class="header-news"><a href="../../"><img src="../../templates/default/images/logo.png" alt=" 苏高新集团"></a></div>
 
-<div class="xq_title">海胥澜庭荣获第三届中国地产设计大奖优秀居住项目奖</div>
+<div class="xq_title">${SingleNews.getNewsTitle() }</div>
 
-<div class="xq_Time">  发稿时间：2017-05-25&nbsp;&nbsp;作者：蒋逸凡&nbsp;&nbsp;来源：集团党政办&nbsp;&nbsp;文字大小：[<a  href="javascript:fontZoom(20)">大</a>][<a  href="javascript:fontZoom(16)">中</a>][<a   href="javascript:fontZoom(12)">小</a>]</div>
+<div class="xq_Time">  发稿时间：${SingleNews.getAddTime() }&nbsp;&nbsp;来源：比高新能源&nbsp;&nbsp;文字大小：[<a  href="javascript:fontZoom(20)">大</a>][<a  href="javascript:fontZoom(16)">中</a>][<a   href="javascript:fontZoom(12)">小</a>]</div>
 
-<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700460118203.png" title="1495700460118203.png" alt="blob.png"/></p><p>近日，第三届中国地产设计大奖颁奖典礼在上海国金中心落下帷幕。苏高新集团古城情怀作品海胥澜庭，凭借柏涛建筑将国际手法与东方文化相结合的理念，将中国式的园林景观简化线条、与现代化建筑融合一体，得到了业界专业评委的一致好评，最终荣获2016-2017年度中国地产设计大奖优秀居住项目奖。</p><p>据了解，中国地产设计大奖旨在以地产的角度评选设计，通过设计的视角甄选代表地产行业风向标的优秀项目，因其高质量的评委阵容、严谨的评选流程、公开的评选模式，已成为中国地产行业极具影响力及号召力的国际性地产行业设计大奖。本届大奖共有137家企业、389份作品参赛，范围涵盖中国、美国、英国、德国、日本、澳大利亚、新加坡、加拿大、丹麦、秘鲁等国家。</p><p style="text-align: center;"><img src="http://www.c-snd.com/ueditor/php/upload/image/20170525/1495700379536318.png" title="1495700379536318.png" alt="blob.png" style="text-align: center; white-space: normal;"/></p><p>海胥澜庭作为苏高新集团“澜庭系”高端产品序列中的坚实力量，在规划设计阶段就邀请到了澳大利亚柏涛建筑与中国前十景观设计的Antao Design担纲建筑和景观设计，并与十二大家装领域的世界一流品牌合作，细致雕琢每处细节，2016年9月项目开盘后，销售态势良好，并于去年入选了“苏州品牌影响力楼盘”前20强。</p><p>苏高新集团作为“苏州房地产品牌影响力企业”，旗下房地产板块将继续坚持市场化运作模式，充分挖掘市场、积极储备土地、坚守情怀品质，本着“让城市生活更美好”的奋斗目标，努力在城市的画布上创作出更多美好的作品。</p><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700405140316.png" title="1495700405140316.png" alt="blob.png"/></p></div>
+<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700405140316.png" title="1495700405140316.png" alt="blob.png"/></p></div>
 
 
 
