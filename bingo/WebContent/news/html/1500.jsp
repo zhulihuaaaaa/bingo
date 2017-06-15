@@ -75,7 +75,7 @@ function fontZoom(size)
 
 <div class="xq_Time">  发稿时间：${SingleNews.getAddTime() }&nbsp;&nbsp;来源：比高新能源&nbsp;&nbsp;文字大小：[<a  href="javascript:fontZoom(20)">大</a>][<a  href="javascript:fontZoom(16)">中</a>][<a   href="javascript:fontZoom(12)">小</a>]</div>
 
-<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700405140316.png" title="1495700405140316.png" alt="blob.png"/></p></div>
+<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl() }" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700405140316.png" title="1495700405140316.png" alt="blob.png"/></p></div>
 
 
 
