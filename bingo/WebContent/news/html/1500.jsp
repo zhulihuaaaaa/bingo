@@ -26,7 +26,7 @@
 
 <META content="海胥澜庭荣获第三届中国地产设计大奖优秀居住项目奖" name=description>
 
-<title>苏高新集团</title>
+<title>比高新能源</title>
 
 <meta name="HandheldFriendly" content="true">
 
@@ -180,18 +180,6 @@ alert("加入收藏失败，请使用Ctrl+D进行添加");
 } 
 } 
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
