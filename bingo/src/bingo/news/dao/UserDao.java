@@ -41,10 +41,6 @@ public class UserDao {
 	public  static_user findSingleNews(int id) throws SQLException {
 			String sql = "select * from bingo.news_info where newsId = ?";
 			static_user user = qr.query(sql, new BeanHandler<static_user>(static_user.class),id);
-			String txtcontent = user.getNewsContent();
-		    String content = txtcontent.replaceAll("</?[^>]+>", ""); //剔出<html>的标签  
-		    content = content.replaceAll("<a>\\s*|\t|\r|\n</a>", "");//去除字符串中的空格,回车,换行符,制表符  
-		    user.setNewsContent(content);
 		return user;
 	}
 	
