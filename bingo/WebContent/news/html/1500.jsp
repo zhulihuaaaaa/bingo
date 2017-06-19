@@ -22,9 +22,9 @@
 
 <link rel="shortcut icon" href="../../favicon.ico">
 
-<META content="海胥澜庭荣获第三届中国地产设计大奖优秀居住项目奖" name=keywords>
+<META content="${SingleNews.getNewsTitle() }" name=keywords>
 
-<META content="海胥澜庭荣获第三届中国地产设计大奖优秀居住项目奖" name=description>
+<META content="${SingleNews.getNewsTitle() }" name=description>
 
 <title>比高新能源</title>
 
@@ -75,7 +75,9 @@ function fontZoom(size)
 
 <div class="xq_Time">  发稿时间：${SingleNews.getAddTime() }&nbsp;&nbsp;来源：比高新能源&nbsp;&nbsp;文字大小：[<a  href="javascript:fontZoom(20)">大</a>][<a  href="javascript:fontZoom(16)">中</a>][<a   href="javascript:fontZoom(12)">小</a>]</div>
 
-<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"><img src="/ueditor/php/upload/image/20170525/1495700405140316.png" title="1495700405140316.png" alt="blob.png"/></p></div>
+
+<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"></p></div>
+
 
 
 
@@ -184,7 +186,7 @@ alert("加入收藏失败，请使用Ctrl+D进行添加");
 } 
 </script>
 
-
+11
 
 
 
