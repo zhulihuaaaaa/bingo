@@ -45,7 +45,6 @@ public class UserDao {
 		    String content = txtcontent.replaceAll("</?[^>]+>", ""); //剔出<html>的标签  
 		    content = content.replaceAll("<a>\\s*|\t|\r|\n</a>", "");//去除字符串中的空格,回车,换行符,制表符  
 		    user.setNewsContent(content);
-		    System.out.println(user.getNewsContent());
 		return user;
 	}
 	
