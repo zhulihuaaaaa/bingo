@@ -95,7 +95,7 @@ $(document).ready(function() {
 
   <div class="section">
 
-    <!--<h1 class="logo"><a href="index.php"><img src="templates/default/images/logo.png"  alt="苏高新集团" title="苏高新集团" /></a></h1>-->
+   <h1 class="logo"><a href="bingo.jsp"><img src="templates/default/images/logo.png"  alt="比高新能源" title="比高新能源" /></a></h1>
 
     <div class="m_menu"></div>
 
@@ -115,69 +115,69 @@ $(document).ready(function() {
 
 			     <dl>
 
-				     <dt><a href="javascript:;" title="消费者" >消费者</a></dt>
+				     <dt><!-- <a href="javascript:;" title="消费者" > -->消费者<!-- </a> --></dt>
 
-					 <dd><a href="page/group/" title="集团介绍" >集团介绍</a></dd>
+					 <dd><!-- <a href="page/group/" title="集团介绍" > -->集团介绍<!-- </a> --></dd>
 
-					 <dd><a href="swxx/class/" title="商务信息" >商务信息</a></dd>
+					 <dd><!-- <a href="swxx/class/" title="商务信息" > -->商务信息<!-- </a> --></dd>
 
-					 <dd><a href="form/suggestions/" title="投诉建议" >投建议</a></dd>
+					 <dd><!-- <a href="form/suggestions/" title="投诉建议" > -->投诉建议<!-- </a> --></dd>
 
-                     <dd><a href="faq/class/" title="FAQ" >FAQ</a></dd>
-
-				 </dl>
-
-				 <dl>
-
-			       <dt><a href="javascript:;" title="合作者" >合作者</a></dt>
-
-					 <dd><a href="service/main/index.php" title="核心业务" >核心业务</a></dd>
-
-					 <dd><a href="projects/class/?17.html" title="重点项目" >重点项目</a></dd>
-
-					 <dd><a href="swxx/class/" title="商务信息" >商务信息</a></dd>
-
-                     <dd><a href="faq/class/" title="FAQ" >FAQ</a></dd>
-
-				 </dl>
-
-                  <dl>
-
-				     <dt><a href="javascript:;" title="投资者" >投资者</a></dt>
-
-					 <dd><a href="page/history/" title="历史和里程碑" >历史和里程碑</a></dd>
-
-					 <dd><a href="page/idea/" title="文化和价值观" >文化和价值观</a></dd>
-
-					 <dd><a href="service/main/index.php" title="核心业务" >核心业务</a></dd>
+                     <dd><!-- <a href="faq/class/" title="FAQ" > -->FAQ<!-- </a> --></dd>
 
 				 </dl>
 
 				 <dl>
 
-			       <dt><a href="javascript:;" title="" >求职者</a></dt>
+			       <dt><!-- <a href="javascript:;" title="合作者" > -->合作者<!-- </a> --></dt>
 
-					 <dd><a href="page/idea/" title="文化和价值观" >文化和价值观</a></dd>
+					 <dd><!-- <a href="service/main/index.php" title="核心业务" > -->核心业务<!-- </a> --></dd>
 
-					 <dd><a href="page/governance/" title="治理结构" >治理结构 </a></dd>
+					 <dd><!-- <a href="projects/class/?17.html" title="重点项目" > -->重点项目<!-- </a> --></dd>
 
-					 <dd><a href="page/concept/" title="人才理念" >人才理念</a></dd> 
+					 <!-- <dd><a href="swxx/class/" title="商务信息" >商务信息</a></dd> -->
 
-                     <dd><a href="page/job/" title="招聘信息" >招聘信息</a></dd>
+                     <dd><!-- <a href="faq/class/" title="FAQ" > -->FAQ<!-- </a> --></dd>
 
 				 </dl>
 
                   <dl>
 
-				     <dt><a href="javascript:;" title="" >媒体人</a></dt>
+				     <dt><!-- <a href="javascript:;" title="投资者" > -->投资者</a></dt>
 
-					 <dd><a href="page/group/" title="集团介绍" >集团介绍</a></dd>
+					 <dd><!-- <a href="page/history/" title="历史和里程碑" > -->历史和里程碑<!-- </a> --></dd>
 
-                     <dd><a href="news/class/?1.html" title="集团动态" >集团动态</a></dd>
+					 <dd><!-- <a href="page/idea/" title="文化和价值观" > -->文化和价值观<!-- </a> --></dd>
 
-					 <dd><a href="news/class/?60.html" title="传媒聚焦" >传媒聚焦</a></dd>
+					 <dd><!-- <a href="service/main/index.php" title="核心业务" > -->核心业务<!-- </a> --></dd>
 
-					 <dd><a href="page/idea/" title="文化和价值观" >文化和价值观</a></dd>
+				 </dl>
+
+				 <dl>
+
+			       <dt><!-- <a href="javascript:;" title="" > -->求职者<!-- </a> --></dt>
+
+					 <dd><!-- <a href="page/idea/" title="文化和价值观" > -->文化和价值观<!-- </a> --></dd>
+
+					 <dd><!-- <a href="page/governance/" title="治理结构" > -->治理结构 <!-- </a> --></dd>
+
+					 <dd><!-- <a href="page/concept/" title="人才理念" > -->人才理念<!-- </a> --></dd> 
+
+                     <dd><!-- <a href="page/job/" title="招聘信息" > -->招聘信息<!-- </a> --></dd>
+
+				 </dl>
+
+                  <dl>
+
+				     <dt><!-- <a href="javascript:;" title="" > -->媒体人<!-- </a> --></dt>
+
+					 <dd><!-- <a href="page/group/" title="集团介绍" > -->集团介绍<!-- </a> --></dd>
+
+                     <dd><!-- <a href="news/class/?1.html" title="集团动态" > -->集团动态<!-- </a> --></dd>
+
+					 <dd><!-- <a href="news/class/?60.html" title="传媒聚焦" > -->传媒聚焦<!-- </a> --></dd>
+
+					 <dd><!-- <a href="page/idea/" title="文化和价值观" > -->文化和价值观<!-- </a> --></dd>
 
 				 </dl>
 
@@ -201,9 +201,9 @@ $(document).ready(function() {
 
      <img src="templates/default/images/weixin.png"   />
 
-     <div class="wximg"> 
+	 <div class="wximg"> 
 
-     <img src="templates/default/images/1482899080.jpg"   />
+     <img src="templates/default/images/1482899080.jpg"   /> 
 
      </div>
 
@@ -248,9 +248,9 @@ $(document).ready(function() {
 
       <ul>
 
-      <li class="index_home"> <a href="index.php"  class="act">首页</a></li>
+      <li class="index_home"> <a href="bingo.jsp"  class="act">首页</a></li>
 
-        <li> <a href="javascript:;"  title="关于比高">关于比高</a>
+        <li> <a href="/news/html/guanyubigao.html"  title="关于比高">关于比高</a>
 
           <div class="drop" style="display:none;">
 
@@ -274,7 +274,7 @@ $(document).ready(function() {
 
         </li>
 
-        <li> <a href="javascript:;">新闻中心</a>
+        <li> <a href="/news/html/xinwen.jsp">新闻中心</a>
 
           <div class="drop" >
 
@@ -306,15 +306,15 @@ $(document).ready(function() {
 
              <li class="yf"></li>
 
-             <li><a href="service/main/" title="核心业务"  >预约勘测</a></li>
+             <li><a href="/news/html/yuyuekance.html" title="预约勘测"  >预约勘测</a></li>
 
-              <li><a href="projects/class/?17.html" title="重点项目"  >产品</a></li>
+              <li><a href="/news/html/index.html" title="产品"  >产品</a></li>
 
-              <li><a href="enterprise/class/" title="参股企业"  >案例</a></li>
+              <li><a href="/news/html/index2.html" title="案例"  >案例</a></li>
 
-               <li><a href="swxx/class/" title="商务信息"  >体验店</a></li>
+               <li><a href="#" title="体验店"  >体验店</a></li>
 
-                <li><a href="swxx/class/" title="商务信息"  >运维保修</a></li>
+                <li><a href="/news/html/yunweibaoxiu.html" title="商务信息"  >运维保修</a></li>
 
             </ul>
 
@@ -324,7 +324,7 @@ $(document).ready(function() {
 
 
 
-        <li> <a href="javascript:;">投资计算器 </a>
+        <li> <a href="news/html/jisuanqi.html">投资计算器 </a>
 
           <div class="drop" style="display:none;">
 
@@ -360,7 +360,7 @@ $(document).ready(function() {
 
         </li>
 
-          <li> <a href="javascript:;">  商城  </a>
+          <li> <a href="/news/html/shop/index.html">  商城  </a>
 
               <div class="drop" style="display:none;">
 
@@ -487,7 +487,7 @@ $(".lang").hover(function(){
 
       <div class="num"> 
 
-      <a class="icon01 on" href="javascript:;"><img src="templates/default/images/b.png"/></a>
+      <a class="icon01 on" href="javascript:;"><img src="templates/default/images/icon1.png"/></a>
 
       <a  class="icon02" href="javascript:;"><img src="templates/default/images/icon2.png"/></a>
 
@@ -538,7 +538,7 @@ $(".lang").hover(function(){
         <li>
 
         	<img src="templates/default/images/banner5.jpg" width="100%" data-1920='templates/default/images/banner5.jpg' data-990='templates/default/images/banner5_990.jpg' data-640='templates/default/images/banner5_640.jpg'/>
-    z
+    
             <!--<div class="txt bj5"><a href="page/jrsyb/" title="金融"><p><span>金融</span>子品牌新合盛拥有科贷、农贷、担保、融资租赁、商业保理和资产监管等类金融牌照，重点服务中小企业</p></a></div>-->
 
         </li>
@@ -575,7 +575,7 @@ $(".lang").hover(function(){
 
 <div class="lanmu">新闻中心</div>
 
-<div class="lanmu_a"><a href="news/class/" title="查看更多"  >+查看更多</a></div>
+<div class="lanmu_a"><a href="/news/html/xinwen.html" title="查看更多"  >+查看更多</a></div>
 
 </div>
 
@@ -723,7 +723,7 @@ $(".lang").hover(function(){
 <div  class="NewsPicRec">
  
 
-<h4><a href="news/html/?1691.html"   target="_blank">${sessionScope.sessionNews[0].getNewsTitle()}</a></h4>
+<h4><a href="UserServlet?method=findSingleNews&id=${sessionNews[0].getNewsId()}"   target="_blank">${sessionScope.sessionNews[0].getNewsTitle()}</a></h4>
 <p>${sessionScope.sessionNews[0].getNewsContent()}</p>
 
 
@@ -733,7 +733,7 @@ $(".lang").hover(function(){
 <ul>
 
 <li>
-<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[1].getNewsId()}"   target="_blank"    title="${sessionScope.sessionNews[2].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[10].getNewsId()}"   target="_blank"    title="${sessionScope.sessionNews[10].getNewsTitle()}">${sessionScope.sessionNews[10].getNewsTitle()}</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
@@ -763,8 +763,8 @@ $(".lang").hover(function(){
 </li>
 
 <li>
-<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[7].getNewsId()}"    title="${sessionScope.sessionNews[7].getNewsTitle()}">${sessionScope.sessionNews[7].getNewsTitle()}</a></div>
-<div class="newsdtime">[2017-04-11]</div>
+<div class="newstitle" ><a href="UserServlet?method=findSingleNews&id=${sessionNews[1].getNewsId()}"    title="${sessionScope.sessionNews[1].getNewsTitle()}">${sessionScope.sessionNews[1].getNewsTitle()}</a></div>
+<div class="newsdtime">[2017-07-04]</div>
 </li>
 
 </ul>
@@ -776,52 +776,52 @@ $(".lang").hover(function(){
 <div class=tagContent id=tagContent1><ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1696.html"   target="_blank"    title="[小茅山矿]集团领导带队到小茅山矿进行节前安全检查">[小茅山矿]集团领导带队到小茅山矿进行节前安全检查</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="比高新能源第一期总经理培训在江苏南通顺利展开">比高新能源第一期总经理培训在江苏南通顺利展开</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1692.html"   target="_blank"    title="[鸿图动漫]推动国际动漫交流 鸿图动漫牵手“一带一路”">[鸿图动漫]推动国际动漫交流 鸿图动漫牵手“一带一路”</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="涟水比高新能源有限公司探望孤寡老人">涟水比高新能源有限公司探望孤寡老人</a></div>
 <div class="newsdtime">[2017-04-28]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1690.html"   target="_blank"    title="[新港物业]举办电工基础知识分享与交流培训">[新港物业]举办电工基础知识分享与交流培训</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="比高新能源集团副总裁谢雄伟先生率领爱心团队与小学生共过儿童节">比高新能源集团副总裁谢雄伟先生率领爱心团队与小学生共过儿童节</a></div>
 <div class="newsdtime">[2017-04-25]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1689.html"   target="_blank"    title="[太湖湿地]第三十五届爱鸟周在太湖国家湿地公园启动">[太湖湿地]第三十五届爱鸟周在太湖国家湿地公园启动</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[太湖湿地]第三十五届爱鸟周在太湖国家湿地公园启动">[太湖湿地]第三十五届爱鸟周在太湖国家湿地公园启动</a></div>
 <div class="newsdtime">[2017-04-25]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1687.html"   target="_blank"    title="[新振新灏]旗下振苏产业园公司获区科技局表彰">[新振新灏]旗下振苏产业园公司获区科技局表彰</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="漳浦比高与漳浦农村信用社签约3.31">漳浦比高与漳浦农村信用社签约3.31</a></div>
 <div class="newsdtime">[2017-04-24]</div>
 </li>
 
-<li>
-<div class="newstitle" ><a href="news/html/?1679.html"   target="_blank"    title="[新高置地]开展江苏省苏州体育训练基地项目大跨度结构方案评审会">[新高置地]开展江苏省苏州体育训练基地项目大跨度结构方案评审会</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[新高置地]开展江苏省苏州体育训练基地项目大跨度结构方案评审会">[新高置地]开展江苏省苏州体育训练基地项目大跨度结构方案评审会</a></div>
 <div class="newsdtime">[2017-04-17]</div>
-</li>
+</li> -->
+
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[环保产业园]公司VOCs废气治理技术专场推介会顺利落幕">[环保产业园]公司VOCs废气治理技术专场推介会顺利落幕</a></div>
+<div class="newsdtime">[2017-04-17]</div>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?1678.html"   target="_blank"    title="[环保产业园]公司VOCs废气治理技术专场推介会顺利落幕">[环保产业园]公司VOCs废气治理技术专场推介会顺利落幕</a></div>
-<div class="newsdtime">[2017-04-17]</div>
-</li>
-
-<li>
-<div class="newstitle" ><a href="news/html/?1677.html"   target="_blank"    title="[重建金屋]召开作风效能大会">[重建金屋]召开作风效能大会</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[重建金屋]召开作风效能大会">[重建金屋]召开作风效能大会</a></div>
 <div class="newsdtime">[2017-04-14]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1672.html"   target="_blank"    title="[生物医学]开展夜间消防演习 安全生产常抓不懈">[生物医学]开展夜间消防演习 安全生产常抓不懈</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[生物医学]开展夜间消防演习 安全生产常抓不懈">[生物医学]开展夜间消防演习 安全生产常抓不懈</a></div>
 <div class="newsdtime">[2017-04-11]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1671.html"   target="_blank"    title="[重建金屋]克服困难全力推进成大实验小学建设">[重建金屋]克服困难全力推进成大实验小学建设</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[重建金屋]克服困难全力推进成大实验小学建设">[重建金屋]克服困难全力推进成大实验小学建设</a></div>
 <div class="newsdtime">[2017-04-11]</div>
 </li>
 
@@ -830,52 +830,52 @@ $(".lang").hover(function(){
 <div class=tagContent id=tagContent2><ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1697.html"   target="_blank"    title="[政策前沿]天津公布国有控股混合所有制企业员工持股试点方案">[政策前沿]天津公布国有控股混合所有制企业员工持股试点方案</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]天津公布国有控股混合所有制企业员工持股试点方案">[政策前沿]天津公布国有控股混合所有制企业员工持股试点方案</a></div>
 <div class="newsdtime">[2017-05-03]</div>
 </li>
 
-<li>
-<div class="newstitle" ><a href="news/html/?1620.html"   target="_blank"    title="[专家观点]城西旅游，期待新的打开方式 ">[专家观点]城西旅游，期待新的打开方式 </a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[专家观点]城西旅游，期待新的打开方式 ">[专家观点]城西旅游，期待新的打开方式 </a></div>
 <div class="newsdtime">[2017-03-01]</div>
-</li>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?1571.html"   target="_blank"    title="[政策前沿]上海启动国企员工持股试点 首批试点选5至10家企业">[政策前沿]上海启动国企员工持股试点 首批试点选5至10家企业</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]上海启动国企员工持股试点 首批试点选5至10家企业">[政策前沿]上海启动国企员工持股试点 首批试点选5至10家企业</a></div>
 <div class="newsdtime">[2017-01-24]</div>
 </li>
-
+<!-- 
 <li>
-<div class="newstitle" ><a href="news/html/?1570.html"   target="_blank"    title=" [政策前沿]苏州出台去库存新政 允许部分商办项目转为住宅"> [政策前沿]苏州出台去库存新政 允许部分商办项目转为住宅</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title=" [政策前沿]苏州出台去库存新政 允许部分商办项目转为住宅"> [政策前沿]苏州出台去库存新政 允许部分商办项目转为住宅</a></div>
 <div class="newsdtime">[2017-01-24]</div>
 </li>
-
-<li>
-<div class="newstitle" ><a href="news/html/?1226.html"   target="_blank"    title="[政策前沿]进一步加强现代农业建设 高新区与苏州农职院签约合作">[政策前沿]进一步加强现代农业建设 高新区与苏州农职院签约合作</a></div>
+ -->
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]进一步加强现代农业建设 高新区与苏州农职院签约合作">[政策前沿]进一步加强现代农业建设 高新区与苏州农职院签约合作</a></div>
 <div class="newsdtime">[2016-12-12]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?284.html"   target="_blank"    title="[政策前沿]福州出台商业办公房地产去库存办法 买商业地产享财政补贴">[政策前沿]福州出台商业办公房地产去库存办法 买商业地产享财政补贴</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]福州出台商业办公房地产去库存办法 买商业地产享财政补贴">[政策前沿]福州出台商业办公房地产去库存办法 买商业地产享财政补贴</a></div>
 <div class="newsdtime">[2016-10-09]</div>
-</li>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?282.html"   target="_blank"    title="[政策前沿]深圳34项举措给大众创业万众创新“添柴加火”">[政策前沿]深圳34项举措给大众创业万众创新“添柴加火”</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]深圳34项举措给大众创业万众创新“添柴加火”">[政策前沿]深圳34项举措给大众创业万众创新“添柴加火”</a></div>
 <div class="newsdtime">[2016-09-08]</div>
 </li>
 
-<li>
-<div class="newstitle" ><a href="news/html/?272.html"   target="_blank"    title="[政策前沿]苏州高新区:创新激发科技活力">[政策前沿]苏州高新区:创新激发科技活力</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]苏州高新区:创新激发科技活力">[政策前沿]苏州高新区:创新激发科技活力</a></div>
 <div class="newsdtime">[2016-08-23]</div>
-</li>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?271.html"   target="_blank"    title="[政策前沿]多地打响促进民间投资大战 PPP成主要引资手段">[政策前沿]多地打响促进民间投资大战 PPP成主要引资手段</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]多地打响促进民间投资大战 PPP成主要引资手段">[政策前沿]多地打响促进民间投资大战 PPP成主要引资手段</a></div>
 <div class="newsdtime">[2016-08-17]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?270.html"   target="_blank"    title="[政策前沿]习近平：理直气壮做强做优做大国有企业">[政策前沿]习近平：理直气壮做强做优做大国有企业</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="[政策前沿]习近平：理直气壮做强做优做大国有企业">[政策前沿]习近平：理直气壮做强做优做大国有企业</a></div>
 <div class="newsdtime">[2016-07-05]</div>
 </li>
 
@@ -884,52 +884,52 @@ $(".lang").hover(function(){
 <div class=tagContent id=tagContent3><ul>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1648.html"   target="_blank"    title="苏州高新：春暖茶飘香">苏州高新：春暖茶飘香</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="比高新能源集团：春暖茶飘香">比高新能源集团：春暖茶飘香</a></div>
 <div class="newsdtime">[2017-03-27]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1647.html"   target="_blank"    title="姑苏晚报：西京湾“春田茶会”发布春茶">姑苏晚报：西京湾“春田茶会”发布春茶</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="晚报：西京湾“春田茶会”发布春茶">晚报：西京湾“春田茶会”发布春茶</a></div>
 <div class="newsdtime">[2017-03-27]</div>
 </li>
 
 <li>
-<div class="newstitle" ><a href="news/html/?1611.html"   target="_blank"    title="高新区新闻网：赏春光、看熊猫、游湿地 苏州好行“直通”太湖湿地 ">高新区新闻网：赏春光、看熊猫、游湿地 苏州好行“直通”太湖湿地 </a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="新闻网：赏春光、看熊猫、游湿地 “直通”太湖湿地 ">新闻网：赏春光、看熊猫、游湿地 “直通”太湖湿地 </a></div>
 <div class="newsdtime">[2017-02-17]</div>
 </li>
 
-<li>
-<div class="newstitle" ><a href="news/html/?1587.html"   target="_blank"    title="苏州日报：2万多居民告别用水“软绵无力” ">苏州日报：2万多居民告别用水“软绵无力” </a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="苏州日报：2万多居民告别用水“软绵无力” ">苏州日报：2万多居民告别用水“软绵无力” </a></div>
 <div class="newsdtime">[2017-02-04]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?1586.html"   target="_blank"    title="新华网：徐美健调研苏高新集团 进一步做大做强做优产业">新华网：徐美健调研苏高新集团 进一步做大做强做优产业</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="新华网：徐美健调研苏高新集团 进一步做大做强做优产业">新华网：徐美健调研苏高新集团 进一步做大做强做优产业</a></div>
 <div class="newsdtime">[2017-02-04]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?1585.html"   target="_blank"    title="新华日报：苏州高新区46个高层住宅完成二次供水改造  打通城市供水“毛细血管”">新华日报：苏州高新区46个高层住宅完成二次供水改造  打通城市供水“毛细血管”</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="新华日报：苏州高新区46个高层住宅完成二次供水改造  打通城市供水“毛细血管”">新华日报：苏州高新区46个高层住宅完成二次供水改造  打通城市供水“毛细血管”</a></div>
 <div class="newsdtime">[2017-02-04]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?1584.html"   target="_blank"    title="苏州日报：40亿元定向工具成功注册  苏高新集团直接融资再创新">苏州日报：40亿元定向工具成功注册  苏高新集团直接融资再创新</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="苏州日报：40亿元定向工具成功注册  苏高新集团直接融资再创新">苏州日报：40亿元定向工具成功注册  苏高新集团直接融资再创新</a></div>
 <div class="newsdtime">[2017-02-04]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?244.html"   target="_blank"    title="苏州高新：全国五四红旗团支部——太湖湿地公园团总支">苏州高新：全国五四红旗团支部——太湖湿地公园团总支</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="苏州高新：全国五四红旗团支部——太湖湿地公园团总支">苏州高新：全国五四红旗团支部——太湖湿地公园团总支</a></div>
 <div class="newsdtime">[2016-07-04]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?243.html"   target="_blank"    title="新华日报：苏高新集团：匠心独运只为古城宜居梦">新华日报：苏高新集团：匠心独运只为古城宜居梦</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="新华日报：苏高新集团：匠心独运只为古城宜居梦">新华日报：苏高新集团：匠心独运只为古城宜居梦</a></div>
 <div class="newsdtime">[2016-07-01]</div>
-</li>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?242.html"   target="_blank"    title="中国企业报：4.0时代，环保产业园成转型趋势">中国企业报：4.0时代，环保产业园成转型趋势</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="中国企业报：4.0时代，环保产业园成转型趋势">中国企业报：4.0时代，环保产业园成转型趋势</a></div>
 <div class="newsdtime">[2016-03-22]</div>
 </li>
 
@@ -937,30 +937,30 @@ $(".lang").hover(function(){
 
 <div class=tagContent id=tagContent4><ul>
 
-<li>
-<div class="newstitle" ><a href="news/html/?1680.html"   target="_blank"    title="开启城铁商业新时代  汇融广场持续招商中">开启城铁商业新时代  汇融广场持续招商中</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="开启城铁商业新时代  汇融广场持续招商中">开启城铁商业新时代  汇融广场持续招商中</a></div>
 <div class="newsdtime">[2017-04-17]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?1606.html"   target="_blank"    title="“苏州好行”开设太湖国家湿地公园站点">“苏州好行”开设太湖国家湿地公园站点</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="“苏州好行”开设太湖国家湿地公园站点">“苏州好行”开设太湖国家湿地公园站点</a></div>
 <div class="newsdtime">[2017-02-15]</div>
-</li>
+</li> -->
 
 <li>
-<div class="newstitle" ><a href="news/html/?894.html"   target="_blank"    title="关于警惕不法分子进行诈骗的声明">关于警惕不法分子进行诈骗的声明</a></div>
+<div class="newstitle" ><a href="#"   target="_blank"    title="关于警惕不法分子进行诈骗的声明">关于警惕不法分子进行诈骗的声明</a></div>
 <div class="newsdtime">[2016-11-14]</div>
 </li>
 
-<li>
-<div class="newstitle" ><a href="news/html/?828.html"   target="_blank"    title="苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响评价第二次公示">苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响评价第二次公示</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响评价第二次公示">苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响评价第二次公示</a></div>
 <div class="newsdtime">[2014-11-21]</div>
-</li>
+</li> -->
 
-<li>
-<div class="newstitle" ><a href="news/html/?827.html"   target="_blank"    title="苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响报告书第一次公示">苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响报告书第一次公示</a></div>
+<!-- <li>
+<div class="newstitle" ><a href="#"   target="_blank"    title="苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响报告书第一次公示">苏州新高绿建建设发展有限公司苏地2014-G-34号地块项目环境影响报告书第一次公示</a></div>
 <div class="newsdtime">[2014-10-28]</div>
-</li>
+</li> -->
 
 </ul></div>
 
@@ -1020,7 +1020,7 @@ function selectTag(showContent,selfObj){
 
 <div class="lanmu">产品和服务</div>
 
-<div class="lanmu_a"><a href="service/main/index.php" title="查看更多"  >+查看更多</a></div>
+<!-- <div class="lanmu_a"><a href="service/main/index.php" title="查看更多"  >+查看更多</a></div> -->
 
 </div>
 
@@ -1046,7 +1046,7 @@ function selectTag(showContent,selfObj){
 
 				<li>
 
-					<a href="page/jianrong/"   title="预约勘测">
+					<a href="/news/html/yuyuekance.html"   title="预约勘测">
 
 					 <div class="tuicon01"></div>
 
@@ -1060,7 +1060,7 @@ function selectTag(showContent,selfObj){
 
                         <h5>预约勘测</h5>
 
-									<p>这是集团最早涉足、立足新区、且投入最大的业务，从1988年第一批苏高新人跨过运河，实施河西新区开发开始，集团就从1平方公里启动区开始，不断提升高新区258平方公里的城乡建设水平。</p>
+									<p>提前预约，我们将派出工程师实地勘测检查，为您提供最优质的服务</p>
 
 						</span>
 
@@ -1070,7 +1070,7 @@ function selectTag(showContent,selfObj){
 
 				<li>
 
-					<a href="page/syb/"   title="产品">
+					<a href="/news/html/index.html"   title="产品">
 
 						     <div class="tuicon02"></div>
 
@@ -1084,7 +1084,7 @@ function selectTag(showContent,selfObj){
 
                         <h5>产品</h5>
 
-		<p>产业园开发是集团“走出去”战略的重要抓手，主打“苏高新科技产业园”品牌及产品，立志成为中国一流的科技园、产业园和产业新城开发运营服务提供商。</p>
+		<p>有一种智慧,叫做选择光伏.光伏产品作为清洁能源,对国家能源调整有着十分重要的意义.有一种执着,叫做比高新能源.只要有阳光就能发电,为减少雾霾,创建低碳城市作出了贡献.</p>
 
         </span>
 
@@ -1094,7 +1094,7 @@ function selectTag(showContent,selfObj){
 
 				<li>
 
-					<a href="Industrial/class/?3.html"   title="案例">
+					<a href="news/html/index2.html"   title="案例">
 
 						 <div class="tuicon03"></div>
 
@@ -1108,7 +1108,7 @@ function selectTag(showContent,selfObj){
 
                         <h5>案例</h5>
 
-		<p>板块一方面大量承建文体中心、医院和学校等政府代建项目，另一方面进行综合类地产开发，打造盈利中心，开发了多个住宅、商业综合体和写字楼项目。</p>
+		<p>大量承建民用、商用项目，例如上海市金山区亭林医院180KW的项目（2016.09并网）</p>
 
         						</span>
 
@@ -1132,7 +1132,7 @@ function selectTag(showContent,selfObj){
 
                         <h5>体验店</h5>
 
-		<p>板块包括水务、物业和机电维保等三大主要业务单元。负责高新区全域自来水制造供应，近800万方全业态物业服务，大量电梯和变电所维保服务。</p>
+		<p>展示最新技术或产品、服务为主，不定期地联合一些合作伙伴举办专题活动，鼓励观众积极置身其中，参与互动。通过鼓励观众的参观与参与，与消费者建立有效的沟通渠道，收集顾客的意见，以便改进产品和服务。</p>
 
         						</span>
 
@@ -1142,7 +1142,7 @@ function selectTag(showContent,selfObj){
 
 				<li>
 
-					<a href="page/jrsyb/"   title="运维保修">
+					<a href="/news/html/yunweibaoxiu.html"   title="运维保修">
 
 					   <div class="tuicon05"></div>
 
@@ -1156,7 +1156,7 @@ function selectTag(showContent,selfObj){
 
                         <h5>运维保修</h5>
 
-									<p>类金融板块作为新兴培育板块，其发展目标是产品丰富、盈利能力突出，管控水平一流，在区域内具有优势地位的综合金融服务提供商。</p>
+									<p>7x24小时的售后服务，为您保驾护航</p>
 
 						</span>
 
@@ -1224,7 +1224,7 @@ function selectTag(showContent,selfObj){
 
 <!--资讯聚合-->
 
-<div class="index_zixun">
+<!-- <div class="index_zixun">
 
 <div class="section">
 
@@ -1342,7 +1342,7 @@ function selectTag(showContent,selfObj){
 
 <div class="clearfix"> </div>
 
-</div>
+</div> -->
 
 <!--资讯聚合--> 
 
@@ -1364,13 +1364,13 @@ function selectTag(showContent,selfObj){
 
 <h3>关于比高</h3>
 
-<li><a href="page/group/" title="关于我们">关于我们</a></li>
+<li><a href="news/html/index.html" title="关于我们">关于我们</a></li>
 
-<li><a href="page/history/" title="服务项目">服务项目</a> </li>
+<li><a href="#" title="服务项目">服务项目</a> </li>
 
-<li><a href="page/view/" title="联系我们">联系我们</a> </li>
+<li><a href="#" title="联系我们">联系我们</a> </li>
 
-<li><a href="page/governance/" title="付款方式">付款方式</a> </li>
+<li><a href="#" title="付款方式">付款方式</a> </li>
 
 <!--<li><a href="page/idea/" title="文化和价值观">文化和价值观</a> </li>-->
 
@@ -1382,16 +1382,15 @@ function selectTag(showContent,selfObj){
 
 <h3>经典案例</h3>
 
-<li><a href="news/class/?1.html" title="商用案例">商用案例 </a></li>
+<li><a href="#" title="商用案例">商用案例 </a></li>
 
-<li> <a href="news/class/?2.html" title="家用案例">家用案例 </a></li>
+<li> <a href="#" title="家用案例">家用案例 </a></li>
 
-<li> <a href="news/class/?59.html" title="上海地区">上海地区 </a></li>
+<li> <a href="#" title="上海地区">上海地区 </a></li>
 
 <!--<li> <a href="news/class/?60.html" title="传媒聚焦">传媒聚焦 </a></li>-->
 
-<li><a href="news/class/?61.html" title="苏州地区">苏
-+255州地区</a></li>
+<li><a href="#" title="苏州地区">苏州地区</a></li>
 
 </ul>
 
@@ -1401,55 +1400,18 @@ function selectTag(showContent,selfObj){
 
 <h3>服务范围</h3>
 
-<li> <a href="service/main/" title="商用光伏">商用光伏 </a></li>
+<li> <a href="#" title="商用光伏">商用光伏 </a></li>
 
-<li> <a href="projects/class/?17.html" title="家用光伏">家用光伏 </a></li>
+<li> <a href="#" title="家用光伏">家用光伏 </a></li>
 
-<li> <a href="enterprise/class/" title="光伏知识">光伏知识 </a></li>
+<li> <a href="/news/html/guangfuzhishi.html" title="光伏知识">光伏知识 </a></li>
 
-<li><a href="swxx/class/" title="合作流程">合作流程</a></li>
+<li><a href="#" title="合作流程">合作流程</a></li>
 
 </ul>
 
 
 
-<!--<ul>-->
-
-<!--<h3>人才发展</h3>-->
-
-<!--<li> <a href="page/concept/" title="人才理念">人才理念</a> </li>-->
-
-<!--<li><a href="page/excellence/" title="人才引进">人才引进</a> </li>-->
-
-<!--<li> <a href="page/talents/" title="人才培养">人才培养</a> </li>-->
-
-<!--<li><a href="page/job/" title="招聘信息">招聘信息</a> </li>-->
-
-<!--</ul>-->
-
-
-
-<!--<ul>-->
-
-<!--<h3>企业公民</h3>-->
-
-<!--<li> <a href="social/class/" title="社会责任报告">社会责任报告</a> </li>-->
-
-<!--<li><a href="action/class/" title="苏高新在行动">苏高新在行动</a> </li>-->
-
-<!--</ul>-->
-
-
-
-<!--<ul>-->
-
-<!--<h3>党的建设</h3>-->
-
-<!--<li><a href="page/dwjs/" title="党务纪检">党务纪检 </a></li>-->
-
-<!--<li><a href="page/jbqk/" title="群团工作">群团工作</a></li>-->
-
-<!--</ul>-->
 
 
 
@@ -1457,13 +1419,13 @@ function selectTag(showContent,selfObj){
 
 <h3>联系我们</h3>
 
-<li><a href="faq/class/" title="传真:0512-57368984">传真:0512-57368984</a></li>
+<li><!-- <a href="faq/class/" title="传真:0512-57368984"> -->传真:0512-57368984<!-- </a> --></li>
 
-<li><a href="attention/class/" title="18862267353@163.com">18862267353@163.com</a></li>
+<li><!-- <a href="attention/class/" title="18862267353@163.com"> -->18862267353@163.com<!-- </a> --></li>
 
-<li><a href="form/suggestions/" title="咨询热线:4008-397-997">咨询热线:4008-397-997</a></li>
+<li><!-- <a href="form/suggestions/" title="咨询热线:4008-397-997"> -->咨询热线:4008-397-997<!-- </a> --></li>
 
-<li><a href="page/lianluo/" title="地址:江苏省昆山市庆丰西路479号">地址:江苏省昆山市庆丰西路479号</a></li>
+<li><!-- <a href="page/lianluo/" title="地址:江苏省昆山市庆丰西路479号"> -->地址:江苏省昆山市庆丰西路479号<!-- </a> --></li>
 
 </ul>
 
@@ -1472,77 +1434,18 @@ function selectTag(showContent,selfObj){
 </div>
 
 
-
-<!--<div class="foot_right">-->
-
-<!--<h3>苏高新网站群</h3>-->
-
- <!---->
- <!--<a href="http://www.jiangsu.gov.cn" target="_blank"  title="">江苏省人民政府</a>  -->
- <!---->
- <!--<a href="http://www.suzhou.gov.cn/" target="_blank"  title="">中国苏州</a>  -->
- <!---->
- <!--<a href="http://www.snd.gov.cn/snd/" target="_blank"  title="">中国苏州高新区</a>  -->
- <!---->
- <!--<a href="http://www.taihusd.com/" target="_blank"  title="">太湖国家湿地公园</a>  -->
- <!---->
- <!--<a href="http://www.sndnt.com/" target="_blank"  title="">苏州高新</a>  -->
- <!---->
- <!--<a href="http://www.sndvc.com/" target="_blank"  title="">苏高新创投集团</a>  -->
- <!---->
- <!--<a href="http://www.sndhr.com/" target="_blank"  title="">苏州高新人才网</a>  -->
- <!---->
- <!--<a href="http://www.szxqwater.com/" target="_blank"  title="">高新区自来水公司</a>  -->
- <!---->
- <!--<a href="http://www.kings-tower.com/" target="_blank"  title="">金狮大厦</a>  -->
- <!---->
- <!--<a href="http://www.xgwy.com/" target="_blank"  title="">新港物业</a>  -->
- <!---->
- <!--<a href="http://www.snd-gxjw.com/" target="_blank"  title="">高新金屋</a>  -->
- <!---->
- <!--<a href="http://www.snd-xgzd.com/" target="_blank"  title="">新高置地</a>  -->
- <!---->
- <!--<a href="http://www.xms-mine.com/" target="_blank"  title="">小茅山矿</a>  -->
- <!---->
- <!--<a href="http://www.snd-xip.com/" target="_blank"  title="">建融集团</a>  -->
- <!---->
- <!--<a href="http://www.medpark.net.cn/" target="_blank"  title="">江苏医疗器械园</a>  -->
- <!---->
- <!--<a href="http://www.nep.com.cn/" target="_blank"  title="">国家环保产业园</a>  -->
- <!---->
- <!--<a href="http://www.snd-stig.com/" target="_blank"  title="">苏高新科技</a>  -->
- <!---->
- <!--<a href="http://www.c-swed.com/index.html" target="_blank"  title="">生态城公司</a>  -->
- <!---->
- <!---->
- <!---->
- <!---->
-
-
-
-<!--<h4><a href="page/web/">搜索更多苏高新旗下企业>></a></h4>-->
-
-<!--</div>-->
-
 &nbsp;
 
 <div class="clearfix"> </div>
 
 </div>
 
-
-
-
-
 <div class="section"><div class="foot_Buttom">
 
 
-
-
-
-<a title="设为首页" onclick="SetHome(this,window.location)" href="javascript:void(0)">设为首页</a>|<a title="加入收藏" onclick="shoucang(document.title,window.location)" href="javascript:void(0)">加入收藏</a>|<a title="法律声明" href="http://c-snd.com/page/flsm/index.php">法律声明</a>|<a title="建议留言" href="http://c-snd.com/form/suggestions/">建议留言</a>|<a title="我要投稿" href="http://c-snd.com/page/lianluo/index.php">我要投稿</a> 
-<p>Copyright © &nbsp;比高新能源&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/" target="_blank">备案号：苏ICP备06010136号</a>&nbsp;&nbsp;技术支持：比高新能源&nbsp;&nbsp; </p><div style="width:300px;margin:0 auto; padding:5px 0;">
-		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32050502000247" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.c-snd.com/templates/default/images/gongan.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备 32050502000247号</p></a>
+<a title="设为首页" onclick="SetHome(this,window.location)" href="javascript:void(0)">设为首页</a>|<a title="加入收藏" onclick="shoucang(document.title,window.location)" href="javascript:void(0)">加入收藏</a>|<a title="法律声明" href="#">法律声明</a>|<a title="建议留言" href="#">建议留言</a>|<a title="我要投稿" href="#">我要投稿</a> 
+<p>Copyright © &nbsp;比高新能源&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/" target="_blank">备案号：苏ICP备案号</a>&nbsp;&nbsp;技术支持：比高新能源&nbsp;&nbsp; </p><div style="width:300px;margin:0 auto; padding:5px 0;">
+		 		<a target="_blank" href="http://www.beian.gov.cn" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.c-snd.com/templates/default/images/gongan.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备案号</p></a>
 		 	</div>
 <p></p>
 <script type="text/javascript"> 
@@ -1587,21 +1490,6 @@ alert("加入收藏失败，请使用Ctrl+D进行添加");
 } 
 } 
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div></div>

@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
 <head>
@@ -69,14 +68,14 @@ function fontZoom(size)
 
 <div class="main_news">
 
-<div class="header-news"><a href="../../"><img src="../../news/html/images/logo.jpg" alt=" 比高新能源"></a></div>
+<div class="header-news"><a href="/bingo.jsp"><img src="/templates/default/images/logo.png" alt=" 比高新能源"></a></div>
 
 <div class="xq_title">${SingleNews.getNewsTitle() }</div>
 
 <div class="xq_Time">  发稿时间：${SingleNews.getAddTime() }&nbsp;&nbsp;来源：比高新能源&nbsp;&nbsp;文字大小：[<a  href="javascript:fontZoom(20)">大</a>][<a  href="javascript:fontZoom(16)">中</a>][<a   href="javascript:fontZoom(12)">小</a>]</div>
 
 
-<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" title="1495700460118203.png" alt="blob.png"/></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"></p></div>
+<div class="xq_newscon" id="con"><p style="text-align: center;"><img src="${SingleNews.getPicUrl()}" /></p><p>${SingleNews.getNewsContent()}</p><p style="text-align: center;"></p></div>
 
 
 
@@ -138,9 +137,9 @@ function fontZoom(size)
 
 
 
-<a title="设为首页" onclick="SetHome(this,window.location)" href="javascript:void(0)">设为首页</a>|<a title="加入收藏" onclick="shoucang(document.title,window.location)" href="javascript:void(0)">加入收藏</a>|<a title="法律声明" href="http://c-snd.com/page/flsm/index.php">法律声明</a>|<a title="建议留言" href="http://c-snd.com/form/suggestions/">建议留言</a>|<a title="我要投稿" href="http://c-snd.com/page/lianluo/index.php">我要投稿</a> 
-<p>Copyright © &nbsp;比高新能源&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/" target="_blank">备案号：苏ICP备06010136号</a>&nbsp;&nbsp;技术支持：比高新能源</p><div style="width:300px;margin:0 auto; padding:5px 0;">
-		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32050502000247" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.c-snd.com/templates/default/images/gongan.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备 32050502000247号</p></a>
+<a title="设为首页" onclick="SetHome(this,window.location)" href="javascript:void(0)">设为首页</a>|<a title="加入收藏" onclick="shoucang(document.title,window.location)" href="javascript:void(0)">加入收藏</a>|<a title="法律声明" href="#">法律声明</a>|<a title="建议留言" href="#">建议留言</a>|<a title="我要投稿" href="#">我要投稿</a> 
+<p>Copyright © &nbsp;比高新能源&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/" target="_blank">备案号：苏ICP备案号</a>&nbsp;&nbsp;技术支持：比高新能源</p><div style="width:300px;margin:0 auto; padding:5px 0;">
+		 		<a target="_blank" href="http://www.beian.gov.cn" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.c-snd.com/templates/default/images/gongan.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备案号</p></a>
 		 	</div>
 <p></p>
 <script type="text/javascript"> 

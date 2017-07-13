@@ -49,5 +49,12 @@ public class UserService {
 		}
 	}
 
+	public static_user yuyuekance(int id) {
+		try {
+			return userDao.findSingleNews(id);
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		}
+	}
 	
 }

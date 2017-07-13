@@ -58,5 +58,23 @@ public class UserServlet extends BaseServlet {
 			return "r:/news/html/1500.jsp";
 	}
 	}
+
+	/**
+	 * 登录功能
+	 */
+	public String yuyuekance(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		String SingleNews_id = req.getParameter("id");
+		int id = Integer.parseInt(SingleNews_id);
+		static_user SingleNews = userService.findSingleNews(id);
+		if(SingleNews == null) {
+			return "r:/news/html/1500.jsp";
+		} else {
+			req.getSession().setAttribute("SingleNews", SingleNews);
+			/*System.out.println(userlist);*/
+			return "r:/news/html/1500.jsp";
+	}
+	}
+	
 	
 }

@@ -44,4 +44,12 @@ public class UserDao {
 		return user;
 	}
 	
+	/**
+	 * 按用户名和密码查询
+	 */
+	public  static_user yuyuekance(int id) throws SQLException {
+			String sql = "select * from bingo.news_info where newsId = ?";
+			static_user user = qr.query(sql, new BeanHandler<static_user>(static_user.class),id);
+		return user;
+	}
 }
