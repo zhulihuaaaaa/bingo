@@ -32,7 +32,6 @@ public class UserServlet extends BaseServlet {
 			throws ServletException, IOException {
 		/*static_user formUser = CommonUtils.toBean(req.getParameterMap(), static_user.class);*/
 		List<static_user> userlist = userService.login();
-		//System.out.println(user);
 		if(userlist == null) {
 			return "r:/bingo.jsp";
 		} else {

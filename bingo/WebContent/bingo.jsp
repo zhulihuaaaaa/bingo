@@ -95,7 +95,7 @@ $(document).ready(function() {
 
   <div class="section">
 
-    <!--<h1 class="logo"><a href="index.php"><img src="templates/default/images/logo.png"  alt="苏高新集团" title="苏高新集团" /></a></h1>-->
+   <h1 class="logo"><a href="index.php"><img src="templates/default/images/logo.png"  alt="比高新能源" title="比高新能源" /></a></h1>
 
     <div class="m_menu"></div>
 
@@ -538,7 +538,7 @@ $(".lang").hover(function(){
         <li>
 
         	<img src="templates/default/images/banner5.jpg" width="100%" data-1920='templates/default/images/banner5.jpg' data-990='templates/default/images/banner5_990.jpg' data-640='templates/default/images/banner5_640.jpg'/>
-    z
+    
             <!--<div class="txt bj5"><a href="page/jrsyb/" title="金融"><p><span>金融</span>子品牌新合盛拥有科贷、农贷、担保、融资租赁、商业保理和资产监管等类金融牌照，重点服务中小企业</p></a></div>-->
 
         </li>
